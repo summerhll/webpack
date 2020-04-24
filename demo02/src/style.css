@@ -1,0 +1,12 @@
+ @font-face {
+    font-family: 'MyFont';
+    src:  url('./ITCAvantGardeStd-Demi.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+.hello {
+    font-family: 'MyFont';
+    color: red;
+   /** background: url('./logo.png') no-repeat; */
+}

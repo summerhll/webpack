@@ -1,4 +1,5 @@
 # webpack 起步示例
+从github上面下载代码后，需要先执行npm install下载依赖。
 
 ## 代码备注
 安装lodash依赖：
